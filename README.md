@@ -1,8 +1,8 @@
 # EX-09 Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-
+```
 Developed By: KEERTHANA S
 Register No : 212222230066
-
+```
 ### Aim:
 
 <table>
